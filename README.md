@@ -1,9 +1,7 @@
-# ismaeldahbi.github.io
+
 <!DOCTYPE html>
 <html>
-<title>
-    Homepage
-</title>
+
 <body>
     Hello welcome to my Homepage!
     <h1>
